@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653225993949",
+    "project_id": "roadx-12e5e",
+    "storage_bucket": "roadx-12e5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653225993949:android:cfc057fd198bd6281a1d34",
+        "android_client_info": {
+          "package_name": "com.fastwire.roadx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653225993949-qvse8gcg023h87s6k59hkggs6d7njka7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM3E7cmvOe0Tyoid_1jRszxKWlYBwoKUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653225993949-qvse8gcg023h87s6k59hkggs6d7njka7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
